@@ -1,4 +1,7 @@
+<p align="center">
+  <img width="70%" height="70%" alt="Hello World" src="https://github.com/user-attachments/assets/15b8f343-7e29-426f-ba3b-cf79b96cd6ce" /><br/>
 Website, applications, programs, cloud - if's its software, then I'm your guy!
+</p>
 
 <!--
 **Rohan-Agrawal029/Rohan-Agrawal029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
